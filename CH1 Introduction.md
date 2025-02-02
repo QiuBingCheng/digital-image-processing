@@ -8,13 +8,13 @@ The topics discussed are as follows
 * to present an overview of the state of the art in image processing by examining some of the principal areas in which it is applied
 * discuss briefly the principal approaches used in digital image processing.
 * give an overview of the components contained in a typical, general-purpose image processing system.
-* 
+
 # Scope
 Digital image definition as follows
-$$ f(x, y) $$
+$$f(x, y)$$
 
-where $x$ and $y$ are spatial (plane) coordinates, and the amplitude of $f$ at any pair of coordinates $(x, y)$ is called the intensity or gray level of the image at that point. x, y, and the
-intensity values of $f$ are all *finite, discrete quantities*.
+* $x$ and $y$ are spatial (plane) coordinates, and the amplitude of $f$ at any pair of coordinates $(x, y)$ is called the intensity or gray level of the image at that point.
+* x, y, and the intensity values of $f$ are all *finite, discrete quantities*.
 
 # Example of fields that use digital image processing
 we categorize images according to their *source* to develop a basic understanding of image processing application.

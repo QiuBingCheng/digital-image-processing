@@ -39,7 +39,6 @@ where $c$ is the speed of light (2.998 * 108 m/s).
 
 ![alt text](image-8.png)
 
-LIGHT AND THE ELECTROMAGNETIC SPECTRUM
 ![alt text](image-6.png)
 ## Image Sensing And Acquisition
 In this section, we look at the principal modalities for image sensing and generation.
