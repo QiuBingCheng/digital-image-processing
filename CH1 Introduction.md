@@ -21,12 +21,10 @@ we categorize images according to their *source* to develop a basic understandin
 ![alt text](image-10.png)
 
 ## X-ray imaging
-* The energy (penetrating
-power) of X-rays is controlled by a voltage applied across the anode, and by a
-current applied to the filament in the cathode
-* can penetrate solid substances, including construction materials and living tissue.
-* Used in:
-  * Fabrication: Non-Destructive Testing (NDT) or measuring dimensions.
+* **Principle**: X-ray tube is a vacuum tube with a ***cathode*** and ***anode***. The cathode is heated, causing free electrons to be released. These electrons flow at high speed to the positively charged anode. When the electrons strike a nucleus, energy is released in the form of X-ray radiation.
+* **Application**:
+  * Examine circuit boards for flaws, such as missing components or broken traces.
+  * Computerized axial tomography (CAT). Each CAT image is a *slice* taken perpendicularly through the patient
 
 ![alt text](image-9.png)
 
