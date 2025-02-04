@@ -105,8 +105,6 @@ measure of the smallest discernible detail in an image.
 
 # Some Basic Relationships Between Pixels
 
-## Neighbors of a pixel
-
 ## Adjacency, Connectivity, Regions, And Boundaries
 
 * 4-$adjacency$. Two pixels $p$ and $q$ with values from $V$ are 4-$adjacent$ if $q$ is in the

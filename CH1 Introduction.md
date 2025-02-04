@@ -4,7 +4,6 @@
 The topics discussed are as follows
 
 * Define the scope of the field that we call image processing.
-* Give a historical perspective of the origins of this field.
 * Present an overview of the state of the art in image processing by examining some of the principal areas in which it is applied
 * Discuss briefly the principal approaches used in digital image processing.
 * Give an overview of the components contained in a typical, general-purpose image processing system.
@@ -45,54 +44,45 @@ todo
 
 # Fundamental Steps in Digital Image Process
 
-
 * **Image acquisition**
-  * regarding the origin of digital images.
-  * introduce a number of basic digital
-  image concepts.
+  * Origin of digital images.
+  * Basic digital image concepts.
 
 * **Image enhancement**
-  * process of manipulating an image
-  * Using examples from image enhancement to introduce new image processing methods
+  * Manipulation of an image to improve visual quality.
+  * Introduction to new image processing methods through enhancement examples
 
 * **Image restoration**
-  * deals with improving the appearance of
-  an image
-  * restoration techniques tend to be based on mathematical or probabilistic models of image degradation
+  * Improves the appearance of an image
+  * Uses mathematical or probabilistic models to reverse image degradation.
 
 * **Color image processing**
-  * fundamental concepts in color models and basic color processing in a digital domain
-  * Color is used also as the basis for extracting features of interest in an image.
+  * Fundamental concepts of color models and digital color processing.
+  * Color is used for features extraction in images.
 
 * **Wavelets**
-  * foundation for representing images in various degrees of resolution.
-  * In particular, for image data compression and for pyramidal representation, in which images are subdivided successively into smaller regions
+  * Represents images at various resolutions.
+  * Used in image compression and pyramidal representation (progressive image subdivision).
 
 * **Compression**
-  * techniques for reducing the storage required to save an image, or the bandwidth required to transmit it.
+  * Reduces storage size and transmission bandwidth.
   
 * **Morphological processing**
-  * extracting image components that are useful in the representation and description of shape.
+  * Extracts image components useful for shape representation and description..
 
 * **Segmentation**
-  * partitions an image into its constituent parts or objects
+  * Partitions an image into its constituent regions or objects
 
 * **Feature extraction**
-  * follows the output of a segmentation stage, which usually is raw pixel data, constituting either the boundary of a region or all the points in the region itself.
-  * ***Feature detection*** refers to finding the features in an image, region, or boundary.
-  * ***Feature description*** assigns quantitative attributes to the detected features.
+  * Extracts key characteristics from segmented regions.
+  * ***Feature detection*** Identifies relevant image features.
+  * ***Feature description*** Assigns quantitative attributes to detected features.
 
-## Photography
+* ***Image pattern classification***
+  * Assigns labels (e.g., “vehicle”) based on feature descriptors.
+  * **Classical approaches**: Minimum-distance, correlation, Bayes classifiers.
+  * **Modern approaches**: Deep neural networks.
 
-### Analog photography (chemical)
-* ***Full-frame***: Standard film size; traditional 135 film has a standard lens
-* **Types of film**: Black & white, color, infrared.
+# Components of an Image Processing System
 
-### digital photography (electronic)
-Digital photography converts light energy into digital images using **CCD** or **CMOS** sensors.
-
-* **CCD (Charge-Coupled Device)**
-  * Made of silicon semiconductor.
-* **CMOS (Complementary Metal–Oxide–Semiconductor)**
-  * primarily uses *silicon* and *germanium*. 
-  * Dominates due to affordability and low power consumption
+![alt text](image-19.png)
