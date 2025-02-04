@@ -3,11 +3,11 @@
 
 The topics discussed are as follows
 
-* define the scope of the field that we call image processing.
-* give a historical perspective of the origins of this field.
-* to present an overview of the state of the art in image processing by examining some of the principal areas in which it is applied
-* discuss briefly the principal approaches used in digital image processing.
-* give an overview of the components contained in a typical, general-purpose image processing system.
+* Define the scope of the field that we call image processing.
+* Give a historical perspective of the origins of this field.
+* Present an overview of the state of the art in image processing by examining some of the principal areas in which it is applied
+* Discuss briefly the principal approaches used in digital image processing.
+* Give an overview of the components contained in a typical, general-purpose image processing system.
 
 # Scope
 Digital image definition as follows
